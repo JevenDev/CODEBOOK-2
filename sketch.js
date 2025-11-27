@@ -14,7 +14,7 @@ let eyeCounter = 1;
 const CONF_hand = 0.10;
 
 // display size
-const DISPLAY_MAX_WIDTH = 1920;
+const DISPLAY_MAX_WIDTH = 1080;
 let CAM_WIDTH = 640;
 let CAM_HEIGHT = 480;
 

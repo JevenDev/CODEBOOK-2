@@ -5,13 +5,12 @@
 
 body {
     color: white;
-    font-size: 40px;
+    font-size: 25px;
     font-family: Helvetica, sans-serif;
     background: black;
 }
 
 h2 {
-    padding-top: 10px;
     color: #bebebe;
 }
 
@@ -29,5 +28,5 @@ h2 {
 }
 
 #stage {
-    margin-top: 20px;
+    padding-top: 20px;
 }
